@@ -1,9 +1,12 @@
+
 .navbar {
-  background-color: #9494ff!important;
+  background-color: #94618e!important;
 }
 
 #title-section {
-  background-color: #f9fae9;
+  background-color: #f4decb;
+  padding-top: 12em;
+  padding-bottom: 8em;
 }
 
 .jumbotron {
@@ -17,4 +20,37 @@
 
 .col-6 {
   text-align: center;
+}
+
+#title_name {
+  font-family: 'Sacramento', cursive;
+}
+
+#body {
+  font-family: 'Noto Sans TC', sans-serif;
+  background-color: #f8eee7;
+}
+
+#div_skills {
+  margin-bottom: 5em;
+
+}
+
+#div_contacts {
+  background-color: #49274a;
+  font-size: 12px;
+  color: #f8eee7;
+}
+
+.custom_title {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.row {
+  margin-bottom: -1em;
+}
+
+.nav-link {
+  color: #f8eee7;
 }
